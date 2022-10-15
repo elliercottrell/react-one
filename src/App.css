@@ -7,6 +7,11 @@
   src: local("Andale Mono"), url("./font/Andale\ Mono.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "Impact"; /*Can be any text*/
+  src: local("Impact"), url("./font/Impact.ttf") format("truetype");
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
