@@ -1,4 +1,4 @@
-import "./ButtonOne.css";
+import "./Button.css";
 
 function Button(props) {
   console.log(props.buttonText);
